@@ -1,0 +1,13 @@
+MODELO COM VÁRIOS LINKS
+
+<item>
+<title>[B][COLOR lime]QUALIDADE[/COLOR][/B] [B]NOME DA MIDIA - [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1 </link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</linl>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<info> </info>
+</item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
