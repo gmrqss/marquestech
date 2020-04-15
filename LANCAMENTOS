@@ -10,7 +10,14 @@
 <item>
 <title>[B][COLOR lime]HD[/COLOR][/B] [B]Uma ida ao aquario - [/B]</title>
 <link>https://afungkpiuh.mstreamcdn.com/t/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjI4MDQ6MTRjOjg3OGQ6OTY2MDo6MTAwNSIsInhrMHQwbHp1azRlbyIsIm4iXSwiZXhwIjoxNTg2OTcwNjIwfQ.oPDYmfeFdbYHjhjmLoqtuTarhgIH_2QuIwYAIP8RsvU.mp4</link>
-<subtitle>http://www.storiesinflight.com/js_videosub/jellies.srt</subtitle>
+<Subtitle SpotNumber="1" TimeIn="00:00:02:000" TimeOut="00:00:05:000" FadeUpTime="0" FadeDownTime="0">
+<Font Italic="yes">
+<Text VAlign="top" VPosition="86.9545">This text is in italics.</Text>
+</Font>
+<Font Italic="no">
+<Text VAlign="top" VPosition="94.2273">This text is not in italics</Text>
+</Font>
+</Subtitle>
 <thumbnail>https://i.imgur.com/30Z14Ee.png</thumbnail>
 <fanart>https://i.imgur.com/9glfcJj.png</fanart>
 <info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
